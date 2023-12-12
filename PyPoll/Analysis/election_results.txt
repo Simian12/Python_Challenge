@@ -1,0 +1,11 @@
+Election_results
+-------------------
+Total votes:4
+--------------------
+Candidate:25.0%(<class 'bytes'>)
+Charles Casper Stockham:25.0%(<class 'bytes'>)
+Diana DeGette:25.0%(<class 'bytes'>)
+Raymon Anthony Doane:25.0%(<class 'bytes'>)
+----------------------
+Winner:Candidate
+------------------------
